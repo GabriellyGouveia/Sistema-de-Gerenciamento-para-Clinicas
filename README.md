@@ -34,20 +34,18 @@ O diagrama de casos de uso do Sistema de Gerenciamento para Clínicas (SGC) ilus
 
 ## Protótipo de Baixa Fidelidade
 O protótipo de baixa fidelidade do Sistema de Gerenciamento para Clínicas (SGC) apresenta as principais telas da aplicação, destacando as funcionalidades essenciais. Inclui telas de login, cadastro, agendamento de consultas e exames, histórico de consultas, resultados de exames, feedbacks e central de dúvidas. Cada tela é esboçada de forma simples para validar o fluxo de interação e usabilidade antes do desenvolvimento detalhado. Este protótipo serve como uma visualização preliminar para coletar feedbacks iniciais e orientar melhorias futuras.
+
 <div align="center">
-    <img alt="Protótipo de Baixa Fidelidade" width="2000px" height="400px" src="Prototipo_de_Baixa_Fidelidade_SGC.jpg"/>
+    <img alt="Visão Geral" src="Prototipo_de_Baixa_Fidelidade_SGC.jpg" width="100%"/>
 </div>
-<div align="center">
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_login.jpeg"/>
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_inicial.jpeg"/>
-     <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_agendar_consultas.jpeg"/>
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_agendar_exames.jpeg"/>
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_cadastro.jpeg"/>
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_resultados.jpeg"/> 
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_feedbacks.jpeg"/>
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_historico.jpeg"/>
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_central_duvidas.jpeg"/> 
-</div>
+
+### Galeria de Telas
+
+| Acesso e Início | Agendamentos | Histórico e Suporte |
+|:---:|:---:|:---:|
+| <img src="tela_login.jpeg" width="200px"> <br> **Login** | <img src="tela_agendar_consultas.jpeg" width="200px"> <br> **Agendar Consulta** | <img src="tela_historico.jpeg" width="200px"> <br> **Histórico** |
+| <img src="tela_cadastro.jpeg" width="200px"> <br> **Cadastro** | <img src="tela_agendar_exames.jpeg" width="200px"> <br> **Agendar Exame** | <img src="tela_resultados.jpeg" width="200px"> <br> **Resultados** |
+| <img src="tela_inicial.jpeg" width="200px"> <br> **Menu Inicial** | <img src="tela_feedbacks.jpeg" width="200px"> <br> **Feedback** | <img src="tela_central_duvidas.jpeg" width="200px"> <br> **Central de Dúvidas** |
 
 ## Histórias de Usuário
 
