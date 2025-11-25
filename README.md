@@ -4,9 +4,16 @@ Este projeto foi desenvolvido como parte do curso de Ciências da Computação d
 
 ## Equipe:
 - Dayvison Gabriel
-- Gabrielly Gouveia
+- **Gabrielly Gouveia**
 - Kailane Lisley
 - Noemi Soares
+
+###  Competências Técnicas Aplicadas
+A participação neste projeto consolidou conhecimentos fundamentais de Engenharia de Software e Processos, essenciais para a organização de projetos de TI:
+
+* **Engenharia de Requisitos:** Aplicação prática de técnicas de levantamento de requisitos, documentação de **Histórias de Usuário** e definição de **Critérios de Aceitação**.
+* **Prototipagem (UX/UI):** Desenvolvimento de fluxos de interação e telas de baixa fidelidade para validação de usabilidade.
+* **Gestão Ágil:** Entendimento prático de organização de backlog e fluxo de desenvolvimento utilizando ferramentas como **Jira**.
 
 ## Descrição Textual do Sistema
 O Sistema de Gerenciamento para Clínicas (SGC) é um sistema desenvolvido para gerenciar as atividades de uma clínica médica particular que oferece aos usuários uma interface simplificada. O objetivo principal é facilitar o fluxo de atendimento e tornar os serviços da clínica mais acessíveis aos pacientes. O sistema oferece as seguintes funcionalidades:
